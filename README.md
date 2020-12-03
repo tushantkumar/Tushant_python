@@ -10,6 +10,6 @@
 1. recursionFunction
 2. recursionFibonacci
 3. recursionFactorial
-4. listFormatedway
+4. listFormatedWay
 5. gen
 6. primeNumberList          <b>---> using module </b>
