@@ -6,5 +6,5 @@ def recur(num):
         #print(f'{num} ', end=' ')
         
 n = int(input('Enter a number: '))
-print("The factorial of", n, "is")
+print("The Recursion of", n, "is")
 recur(n)
