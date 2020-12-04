@@ -1,0 +1,6 @@
+Welcome to Python Training
+**************************
+Topic:
+Count Line
+Count Word
+Count Sentence
