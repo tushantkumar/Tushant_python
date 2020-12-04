@@ -13,3 +13,6 @@
 4. listFormatedWay
 5. gen
 6. primeNumberList          <b>---> using module </b>
+# Day3 Assignment
+1. wordLineCount
+2. rogetDictionary 
