@@ -17,3 +17,8 @@
 1. wordLineCount
 2. rogetDictionary          <b>---> using file handling</b>
 3. expectedOutput           <b>---> using module</b>
+# Day4 Assignment
+1. Using <b>import re </b> remove tag from html file and saving file into txt file
+2. Zip file and extract file
+3. Using regex, display only the links present in txt file
+4. Additonal methods for Overloading Relational and other Arithmetic operators
