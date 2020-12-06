@@ -15,4 +15,5 @@
 6. primeNumberList          <b>---> using module </b>
 # Day3 Assignment
 1. wordLineCount
-2. rogetDictionary 
+2. rogetDictionary          <b>---> using file handlind</b>
+3. expectedOutput           <b>---> using module</b>
