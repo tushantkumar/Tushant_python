@@ -11,6 +11,4 @@ zipper.close()
 
 with ZipFile('d:\\Sify documents\\Python training\\Assignment\\Assign2.zip') as zp:
     print(zp.namelist())
-    info = zp.getinfo('pyramid.py')
-    print(f'{info.file_size}-->{info.compress_size}')
     zp.extractall('test/')
