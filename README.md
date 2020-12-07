@@ -23,3 +23,6 @@
 3. Using regex, display only the links present in txt file
 4. Additonal methods for Overloading Relational and other Arithmetic operators
 5. classLink 
+# Day5 Assignment
+1. Problem1 (convert html to plain text file ----> Using URLLIB)
+2. Problem2 ( Extract links from the html file(s))
